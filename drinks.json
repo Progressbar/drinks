@@ -1,0 +1,18 @@
+{
+  "clubMate": {
+    "size": 500,
+    "sellPrice": 2,
+    "stockPrice": 1.32
+  },
+  "floraPower": {
+    "size": 500,
+    "sellPrice": 2,
+    "stockPrice": 1.10
+  },
+  "fritz-kola": {
+    "type": "sugarfrei",
+    "size": 330,
+    "sellPrice": 2,
+    "stockPrice": 1.20
+  }
+}
