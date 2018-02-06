@@ -9,10 +9,29 @@
     "sellPrice": 2,
     "stockPrice": 1.10
   },
-  "fritz-kola": {
-    "type": "sugarfrei",
+  "fritz-kolaSugarfrei": {
     "size": 330,
     "sellPrice": 2,
     "stockPrice": 1.20
+  },
+  "mateMate": {
+    "size": 200,
+    "price": 2,
+    "stockPrice": 1.10
+  },
+  "kombuchaGinger": {
+    "size": 200,
+    "price": 2,
+    "stockPrice": 1.10
+  },
+  "kombuchaLemongrassBig": {
+    "size": 330,
+    "price": 2,
+    "stockPrice": 1.10
+  },
+  "kombuchaLemongrassSmall": {
+    "size": 250,
+    "price": 2,
+    "stockPrice": 1.10
   }
 }
